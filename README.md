@@ -1,6 +1,7 @@
 # JavaScript: Additional events, timers, add attributes
-
+#### Partial 1/2 See index.js and question 2.html for comments(!!) Score : 1
 ### Exercise 1:
+##### Partial
 Create a simple form with a single ```checkbox``` and the message ```DON'T CLICK THIS CHECKBOX!```. When the User tries to click checkbox, display a message, ```I TOLD YOU NOT TO CLICK THIS!!!```
 
 ### Exercise 2:
